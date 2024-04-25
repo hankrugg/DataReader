@@ -17,5 +17,5 @@ To get started with this project, follow these instructions:
 
 2. Run program with your preferred method.
 
-3. Once the program completes execution, you will find three CSV files generated in the project directory: `Institutions.csv`, `Teams.csv`, and `Stats.csv`.
+3. Once the program completes execution, you will find three CSV files generated in the project directory: `Institutions.csv`, `Teams.csv`, and `Stats.txt`.
 
